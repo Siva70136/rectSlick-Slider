@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  width: 60%;
+}
